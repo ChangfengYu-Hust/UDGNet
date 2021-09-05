@@ -4,10 +4,7 @@
 By Changfeng Yu*, Yi Chang* (https://scholar.google.com/citations?user=I1nZ67YAAAAJ&hl=en)(* indicates equal contribution)
 
 ##Demo
-<p align="center">
-	<img src="result/real_result.png">
-	Rain removal in real data
-</p>
+![Demo](/results/real_result.png)
 
 ## Dependencies and Installation
 
