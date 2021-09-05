@@ -3,7 +3,7 @@
 ### Unsupervised Image Deraining: Optimization Model Driven Deep CNN [Paper](https://owuchangyuo.github.io/files/UDGNet.pdf)
 By Changfeng Yu*, Yi Chang* (https://scholar.google.com/citations?user=I1nZ67YAAAAJ&hl=en)(* indicates equal contribution)
 
-##Demo
+# Demo
 ![Demo](/results/real_result.png)
 
 ## Dependencies and Installation
@@ -13,7 +13,7 @@ By Changfeng Yu*, Yi Chang* (https://scholar.google.com/citations?user=I1nZ67YAA
 - NVIDIA GPU + [CUDA](https://developer.nvidia.com/cuda-downloads)
 - Python packages: `pip install -r enviroment.txt`
 
-#Dataset
+# Dataset
 - Our dataset RealRain(including the angle) and Rain_cityscape can be downloaded here. 
 - Make your own data:
 	1. Simulating by yourself, the angle information can be easily obtained during the simulation.
