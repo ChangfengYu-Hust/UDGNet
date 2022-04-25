@@ -30,7 +30,7 @@ By Changfeng Yu*, Yi Chang* (https://scholar.google.com/citations?user=I1nZ67YAA
  	-rain/data
  	-angle/data
 	```  
-- the training data based cityscape can be downlowed form [Baidu Netdisk](https://pan.baidu.com/s/1fB12bgX03H3LPC27Ta0v2A)
+- the training data based cityscape can be downlowed form [Baidu Netdisk](https://pan.baidu.com/s/1gCX21JZQVpFT497VLVHqIw)
   the extraction code is hust
 ## How to Train
 - **UDGNet**
